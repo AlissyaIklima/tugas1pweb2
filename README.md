@@ -2,6 +2,7 @@
 PWEB2 MODUL 3, 4
 / JOBSHEET /
 JOB1.php
+```
 <?php
 class Mahasiswa {}
 //class diatas termasuk class yang akan menampung properti
@@ -34,6 +35,7 @@ $mahasiswa1 = new Mahasiswa("Alissya Iklima Nur Ramadani", "230302003", "Kompute
 // echo disini berguna menampilkan tampilkanData yang sudah diinput diatas
 echo $mahasiswa1->tampilkanData();
 ?>
+```
 
 TAMPILAN OUTPUT :
 ![image](https://github.com/user-attachments/assets/03225173-c980-44e3-93c7-b5030bf0e52f) 
