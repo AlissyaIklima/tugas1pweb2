@@ -49,12 +49,6 @@ Objek baru memunculkan nama, nim, jurusan. Dan disaat menampilkan objek baru mak
 
 [COM](https://www.warungbelajar.com/)
 
-# MODUL 1, 2
-
-Didalam modul kali ini kita mempelajari class dan objek, Implementasi Constructor, Membuat Metode Tambahan, Penggunaan Atribut dan Metode
-
-## Jobsheet 2: Menggunakan Konsep Kelas dan Objek dalam PHP
-
 ## job 2
 
 ```php
@@ -100,12 +94,6 @@ Objek baru menampilkan nama, nim, jurusan, dan objek baru  mahasiswa1 akan menam
 ## Referensi Kode
 
 [COM](https://www.warungbelajar.com/)
-
-# MODUL 1, 2
-
-Didalam modul kali ini kita mempelajari class dan objek, Implementasi Constructor, Membuat Metode Tambahan, Penggunaan Atribut dan Metode
-
-## Jobsheet 2: Menggunakan Konsep Kelas dan Objek dalam PHP
 
 ## job 3
 
@@ -167,12 +155,6 @@ objek baru yang dibuat menampilkan sebelum di update yang berisi nama, nim, juru
 ## Referensi Kode
 
 [COM](https://www.warungbelajar.com/)
-
-# MODUL 1, 2
-
-Didalam modul kali ini kita mempelajari class dan objek, Implementasi Constructor, Membuat Metode Tambahan, Penggunaan Atribut dan Metode
-
-## Jobsheet 2: Menggunakan Konsep Kelas dan Objek dalam PHP
 
 ## job 4
 
@@ -237,12 +219,6 @@ objek baru yang dibuat menampilkan sebelum di update nim yang berisi nama, nim, 
 ## Referensi Kode
 
 [COM](https://www.warungbelajar.com/)
-
-# MODUL 1, 2
-
-Didalam modul kali ini kita mempelajari class dan objek, Implementasi Constructor, Membuat Metode Tambahan, Penggunaan Atribut dan Metode
-
-## Jobsheet 2: Menggunakan Konsep Kelas dan Objek dalam PHP
 
 ## job Tugas Dosen
 
