@@ -1,4 +1,4 @@
-<?
+<?php
 // class
 // class termasuk template untuk objek yang mempiliki poperti
 class Mahasiswa{

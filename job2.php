@@ -28,5 +28,4 @@ class Mahasiswa{
 $mahasiswa1 = new Mahasiswa('Rafi', '090505', 'Akuntasi');
 // menampilkan properti $mahasiswa1 dengan memanggil tampilkanData()
 echo $mahasiswa1->tampilkanData();
-
 ?>
